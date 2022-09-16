@@ -24,5 +24,32 @@ h3{
 }
 h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 20px;
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+}
+.titan{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fondo{
+    background-color: rgb(248, 237, 236);
+}
+table{
+    width: 100%;
+    border: 5px groove rgb(237, 11, 11);
+}
+td{
+    background-color: aqua;
+    text-align: center;
+    border: 5px double rgb(236, 224, 9);
+}
+th{
+    background-color: blue;
+    color: azure;
+    border: 5px dashed rgb(6, 240, 57);
+}
+caption{
+    color: brown;
 }
