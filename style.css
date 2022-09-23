@@ -34,9 +34,11 @@ h4{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .fondo{
-    background-color: rgb(248, 237, 236);
+    background-color: rgb(226,60,60);
+    background: linear-gradient(90deg, rgba(226,60,60,1) 0%, rgba(228,174,133,1) 22%, rgba(147,175,5,1) 63%, rgba(82,235,234,1) 81%, rgba(181,75,240,1) 100%);
 }
-table{
+
+/* table{
     width: 100%;
     border: 5px groove rgb(237, 11, 11);
 }
@@ -52,4 +54,4 @@ th{
 }
 caption{
     color: brown;
-}
+} */
